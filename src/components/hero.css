@@ -1,0 +1,12 @@
+.hero-img{
+    width:35vw;
+}
+.custom-button{
+    border:1px solid #202020;
+}
+.custom-button:hover{
+    transition: 10ms ease-in-out;
+    -webkit-box-shadow: 5px 5px 0px 0px rgba(184,214,255,1);
+    -moz-box-shadow: 5px 5px 0px 0px rgba(184,214,255,1);
+    box-shadow: 5px 5px 0px 0px rgba(184,214,255,1);
+}
