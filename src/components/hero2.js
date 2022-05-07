@@ -24,7 +24,7 @@ function Hero2() {
             <div className='col-md-6 d-flex align-items-center justify-content-center' style={{ flexDirection: 'column' }}>
 
 
-                <img src='what-is-ethereum.webp' style={{ height: '45vh' }} alt="what is Etherum image" />
+                <img src='what-is-ethereum.webp' style={{ height: '40vh' }} alt="what is Etherum image" />
 
                 <div className='d-flex justify-content-center'>
                     <button className='btn custom-button'>Join the Network</button>
