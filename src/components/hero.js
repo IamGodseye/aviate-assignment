@@ -6,7 +6,7 @@ function Hero() {
         // hero component
         <div className='row mb-4'>
             <div className='d-flex justify-content-center'>
-                <div style={{ fontSize: '4rem', color: '#202030', fontWeight: '900', textAlign: 'center' }}>Welcome to the
+                <div style={{ fontSize: '3rem', color: '#202030', fontWeight: '900', textAlign: 'center' }}>Welcome to the
                     <br></br>
                     Decentralized World
                 </div>
