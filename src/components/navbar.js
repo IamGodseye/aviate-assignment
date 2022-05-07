@@ -5,7 +5,7 @@ function Navbar() {
   // nav-bar using bootstrap and some custom styles
   return (
     <div className="glassy sticky-top" >
-      <nav class="navbar navbar-expand-lg navbar-light  " style={{ width: "70vw", margin: '0 auto' }}>
+      <nav class="navbar navbar-expand-lg navbar-light  " style={{ margin: '0 auto' }}>
         <div class="container-fluid">
           < a class="navbar-brand" href="/" >
             <img src='Meta-Symbol.png' className="navbar-logo" alt="meta-logo" />
