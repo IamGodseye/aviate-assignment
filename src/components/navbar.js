@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import './navbar.css'
 function Navbar() {
 
@@ -8,7 +8,7 @@ function Navbar() {
       <nav class="navbar navbar-expand-lg navbar-light  " style={{ width: "70vw", margin: '0 auto' }}>
         <div class="container-fluid">
           < a class="navbar-brand" href="/" >
-            <img src='Meta-Symbol.png' alt="" className="navbar-logo" />
+            <img src='Meta-Symbol.png' className="navbar-logo" alt="meta-logo" />
             <span style={{ fontWeight: '600' }}> Meta-Currency </span>
           </a >
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

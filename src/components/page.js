@@ -13,7 +13,7 @@ function Page(props) {
 
             <div className='col-md-6 d-flex justify-content-center align-items-center'>
 
-                <img src={props.image} style={{ height: '50vh' }} />
+                <img src={props.image} style={{ height: '50vh' }} alt="Image in page" />
             </div>
         </div>
     )
